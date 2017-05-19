@@ -4,17 +4,20 @@
 
     <img src="./assets/logo.png">
     <router-view></router-view>
+    <footBar></footBar>
 
   </div>
 </template>
 
 <script>
 import navBar from '@/components/navBar.vue'
+import footBar from '@/components/footBar.vue'
 
 export default {
   name: 'app',
   components: {
     navBar,
+    footBar
   }
 }
 </script>
