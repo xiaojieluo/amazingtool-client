@@ -9,7 +9,7 @@ Vue.config.devtools = true
 
 
 
-global.API_URL = 'http://localhost:8888/'
+global.API_URL = 'https://api.amazingtool.org/'
 
 /* eslint-disable no-new */
 new Vue({

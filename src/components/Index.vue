@@ -1,7 +1,6 @@
 <template lang="html">
   <div id="Index">
-      Index component
-
+      Amazingtool 
   </div>
 </template>
 
